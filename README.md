@@ -1,4 +1,4 @@
 # Goals
-[] First Goal
-[] Second Goal
-[] Third Goal
+- [ ] First Goal
+- [ ] Second Goal
+- [ ] Third Goal
